@@ -1,0 +1,31 @@
+.header {
+    background-color: #ccc;
+    min-height: 80px;
+    padding-top: 20px;
+}
+.nav{
+    margin-bottom: 0px;
+}
+.header li{
+    display: inline-block;
+    margin: 10px;
+}
+.nav-logo {
+    float: left;
+}
+.nav-logo img{
+    height: 48px;
+}
+.Carousel img{
+    max-height: 550px;
+}
+.footer{
+    background: #000;
+    color: #fff;
+}
+.footer-menu{
+    list-style: none;
+}
+.user-control{
+    float: right;
+}
